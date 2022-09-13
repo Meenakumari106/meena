@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>
+My First HTML
+</title>
+</head>
+<body>
+<center>
+<h1>Browser</h1>
+
+<h2><font color="green">Meenakumari</font></h2>
+</center>
+<hr>
+<hr>
+<hr>
+<a href="https://www.facebook.com " target="blank"><img src="/home/cse-lab/Desktop/b192158/images/Facebook-logo.png" height="250px" width="250px" /></a>
+<a href="https://m.linkedin.com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/in logo.jpg" height="250px" width="250px" /></a>
+<a href="https://www.google.com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/Google+.jpg" height="250px" width="250px"/></a>
+<br>
+<a href="https://www.instagram.com"target="blank"><img src="/home/cse-lab/Desktop/b192158/images/Instagram_icon.png.webp" height="250px" width=250px"/></a>
+<a href="https://twitter.com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/logo-rond-twitter.png" height="250px" width="250px"/></a>
+<a href="https://in.pinterest.com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/pinterest.png" height="250px" width="250px"/></a>
+<br>
+<a href="https://www.snapchat.com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/Snapchat-logo.png" height="250px" width="250px"/></a>
+<a href="https://www.whatsapp.com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/whatsapp.png" height="250px" width="250px"/></a>
+<a href="https://www.youtube .com "target="blank"><img src="/home/cse-lab/Desktop/b192158/images/youtube-logo-hd-8.png" height="250px" width="250px"/></a>
+
+<hr>
+<hr>
+
+</html>
